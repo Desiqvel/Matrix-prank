@@ -1,4 +1,4 @@
-# Matrix-prank
+# Matrix prank
 
 Rename the .txt file to a .bat file and for example place it in the startup folder
 
